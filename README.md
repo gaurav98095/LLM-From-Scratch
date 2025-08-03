@@ -1,4 +1,4 @@
-# 🧠 Learning GPT-2 from Scratch
+# Learning GPT-2 from Scratch
 
 This repo is my learning journey building **GPT-2** using the repo:
 
