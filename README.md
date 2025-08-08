@@ -13,8 +13,8 @@ This repo is my learning journey building **GPT-2** using the repo:
 ## Progress
 
 * [✅] Input Layer
-* [❌] Coding Attention Layer
-* [❌] Full GPT-2 Model
-* [❌] Pretraining On Unlabeled Data
-* [❌] Finetuning For Classification
+* [✅] Coding Attention Layer
+* [✅] Full GPT-2 Model
+* [✅] Pretraining On Unlabeled Data
+* [✅] Finetuning For Classification
 * [❌] Instruction Finetuning
