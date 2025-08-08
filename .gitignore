@@ -5,3 +5,8 @@ __pycache__
 model.pth
 model_and_optimizer.pth
 04 - Pretraining/gpt2/*
+
+gpt2
+*.zip
+sms_spam_collection
+*.pth
