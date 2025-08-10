@@ -17,4 +17,4 @@ This repo is my learning journey building **GPT-2** using the repo:
 * [✅] Full GPT-2 Model
 * [✅] Pretraining On Unlabeled Data
 * [✅] Finetuning For Classification
-* [❌] Instruction Finetuning
+* [✅] Instruction Finetuning
